@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link';
-import AllPosts from './all-posts';
+import AllPosts from '../data/all-posts';
 
 export default function Home() {
   return (
